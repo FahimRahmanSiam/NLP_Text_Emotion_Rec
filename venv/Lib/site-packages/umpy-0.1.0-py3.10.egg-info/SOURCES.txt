@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+umpy/__init__.py
+umpy/um.py
+umpy.egg-info/PKG-INFO
+umpy.egg-info/SOURCES.txt
+umpy.egg-info/dependency_links.txt
+umpy.egg-info/not-zip-safe
+umpy.egg-info/top_level.txt
